@@ -12,8 +12,9 @@ public class ex22re {
         while (n> 0)
         {
             int i = n%2;
-            s = i +s;
+
             n = n / 2;
+            s = i +s;
         }
         System.out.println("so nhi phan la:" +s);
     }
