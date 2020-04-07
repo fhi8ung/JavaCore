@@ -29,6 +29,6 @@ public class ex24 {
                 U2 = Un;
             }
         }
-        System.out.println(fib);
+        System.out.print(fib);
     }
 }
