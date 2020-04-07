@@ -12,13 +12,16 @@ public class ex24 {
         String fib = "";
         if (x == 1) {
             fib = "0";
-        } else if (x == 2) {
+        }
+
+        else if (x == 2) {
             fib = "0, 1";
-        } else {
+        }
+
+        else {
             int U1 = 0;
             int U2 = 1;
             fib = U1 + ", " + U2;
-
             for (int i = 3; i <= x; i++) {
                 int Un = U1 + U2;
                 fib = fib + ", " + Un;
