@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="53b38bc9-2271-4c26-a682-dbcff53e4f37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EX/ex28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX3/ex31.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/ex27re.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,14 +45,29 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.ex28">
+  <component name="RunManager" selected="Application.ex31">
+    <configuration name="MainOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.MainOOP" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ex25" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EX.ex25" />
       <module name="JavaCore" />
@@ -107,6 +140,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EX3.ex31" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EX3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="exx252" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EX.exx252" />
       <module name="JavaCore" />
@@ -122,6 +168,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex31" />
+        <item itemvalue="Application.MainOOP" />
         <item itemvalue="Application.ex28" />
         <item itemvalue="Application.ex27" />
         <item itemvalue="Application.ex27re" />
@@ -141,7 +189,31 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1240" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1586959074268">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1240" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586959074268" />
+    <state x="1269" y="201" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586957337324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1269" y="201" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586957337324" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587088811334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587088811334" />
     <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1586444889607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -182,10 +254,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586445090450" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1586436632715">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1587088233256">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586436632715" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587088233256" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586436250373">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
