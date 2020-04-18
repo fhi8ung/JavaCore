@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53b38bc9-2271-4c26-a682-dbcff53e4f37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EX3/ex32re2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,20 +53,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.ex32re">
-    <configuration name="MainOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.MainOOP" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ex32re2">
     <configuration name="ex25" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EX.ex25" />
       <module name="JavaCore" />
@@ -144,6 +132,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex32re2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EX3.ex32re2" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EX3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ex33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EX3.ex33" />
       <module name="JavaCore" />
@@ -172,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex32re2" />
         <item itemvalue="Application.ex32re" />
         <item itemvalue="Application.ex33" />
         <item itemvalue="Application.ex32" />
         <item itemvalue="Application.ex31" />
-        <item itemvalue="Application.MainOOP" />
       </list>
     </recent_temporary>
   </component>
@@ -226,22 +227,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586436631063" />
-    <state width="1877" height="327" key="GridCell.Tab.0.bottom" timestamp="1587191992504">
+    <state width="1877" height="327" key="GridCell.Tab.0.bottom" timestamp="1587195261361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587191992504" />
-    <state width="1877" height="327" key="GridCell.Tab.0.center" timestamp="1587191992504">
+    <state width="1877" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587195261361" />
+    <state width="1877" height="327" key="GridCell.Tab.0.center" timestamp="1587195261360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587191992504" />
-    <state width="1877" height="327" key="GridCell.Tab.0.left" timestamp="1587191992503">
+    <state width="1877" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587195261360" />
+    <state width="1877" height="327" key="GridCell.Tab.0.left" timestamp="1587195261360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587191992503" />
-    <state width="1877" height="327" key="GridCell.Tab.0.right" timestamp="1587191992504">
+    <state width="1877" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587195261360" />
+    <state width="1877" height="327" key="GridCell.Tab.0.right" timestamp="1587195261360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587191992504" />
+    <state width="1877" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587195261360" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587142536500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
