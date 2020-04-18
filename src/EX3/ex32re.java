@@ -17,7 +17,7 @@ public class ex32re {
         int b = sc.nextInt();
         int[] array2 = new int[b];
         System.out.println("Nhập mảng 2: ");
-        for (int i = 0; i < a; i++) {
+        for (int i = 0; i < b; i++) {
             array2[i] = sc.nextInt();
         }
         int[] gopmang = new int[array1.length + array2.length];
@@ -26,9 +26,9 @@ public class ex32re {
             gopmang[i] = array1[i];
         }
         for (int j = array1.length; j < gopmang.length; j++) {
-            gopmang[j] = array1[j - array1.length];
+            gopmang[j] = array2[j - array1.length];
         }
-        Arrays.sort(array1);
+        Arrays.sort(gopmang);
         for (int i = 0; i < gopmang.length; i++) {
             System.out.print(" " + gopmang[i]);
         }
