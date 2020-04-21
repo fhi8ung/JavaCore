@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53b38bc9-2271-4c26-a682-dbcff53e4f37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EX3/Activity35.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/EX3/ex35.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/EX3/ex35.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EX3/ex35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX3/ex35.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +59,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Application.ex35">
+    <configuration name="Activity35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EX3.Activity35" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EX3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ex25" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EX.ex25" />
       <module name="JavaCore" />
@@ -89,19 +104,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="EX.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EX3.ex32" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EX3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,10 +179,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ex35" />
+        <item itemvalue="Application.Activity35" />
         <item itemvalue="Application.ex32re2" />
         <item itemvalue="Application.ex32re" />
         <item itemvalue="Application.ex33" />
-        <item itemvalue="Application.ex32" />
       </list>
     </recent_temporary>
   </component>
@@ -234,38 +236,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586436631063" />
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1587481462606">
+    <state width="1877" height="185" key="GridCell.Tab.0.bottom" timestamp="1587491258239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587481462606" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1587481462606">
+    <state width="1877" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587491258239" />
+    <state width="1877" height="185" key="GridCell.Tab.0.center" timestamp="1587491258239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587481462606" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1587481462605">
+    <state width="1877" height="185" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587491258239" />
+    <state width="1877" height="185" key="GridCell.Tab.0.left" timestamp="1587491258239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587481462605" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1587481462606">
+    <state width="1877" height="185" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587491258239" />
+    <state width="1877" height="185" key="GridCell.Tab.0.right" timestamp="1587491258239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587481462606" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587142536500">
+    <state width="1877" height="185" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587491258239" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587491213776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587142536500" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1587142536499">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587491213776" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1587491213776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587142536499" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1587142536499">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587491213776" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1587491213776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587142536499" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1587142536499">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587491213776" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1587491213776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587142536499" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587491213776" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1587088233256">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -342,6 +344,41 @@
           <url>file://$PROJECT_DIR$/src/EX3/ex31.java</url>
           <line>27</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EX3/Activity35.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EX3/Activity35.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EX3/Activity35.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EX3/Activity35.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EX3/Activity35.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EX3/Activity35.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EX3/Activity35.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
