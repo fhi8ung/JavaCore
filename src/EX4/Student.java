@@ -6,6 +6,12 @@ public class Student {
     float diem;
     String gioiTinh;
 
+    public Student(String ten, int tuoi, float diem) {
+        this.ten = ten;
+        this.tuoi = tuoi;
+        this.diem = diem;
+    }
+
     public String getTen() {
         return ten;
     }
@@ -38,12 +44,14 @@ public class Student {
         this.gioiTinh = gioiTinh;
     }
 
-    public Student(String ten, int tuoi, float diem) {
-        this.ten = ten;
-        this.tuoi = tuoi;
-        this.diem = diem;
-        this.gioiTinh = gioiTinh;
-
-
+    @Override
+    public String toString() {
+        return "Student{" +
+                "ten='" + ten + '\'' +
+                ", tuoi=" + tuoi +
+                ", diem=" + diem +
+                ", gioiTinh='" + gioiTinh + '\'' +
+                '}';
     }
 }
+
