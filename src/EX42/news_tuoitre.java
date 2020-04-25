@@ -1,13 +1,13 @@
 package EX42;
 
-public class post_tuoitre {
+public class news_tuoitre {
     private int postId;
     private String postName;
     private int authorId;
     private String authorName;
     private String tag;
 
-    public post_tuoitre(int postId, String postName, int authorId, String authorName, String tag) {
+    public news_tuoitre(int postId, String postName, int authorId, String authorName, String tag) {
         this.postId = postId;
         this.postName = postName;
         this.authorId = authorId;
