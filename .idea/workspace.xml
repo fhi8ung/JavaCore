@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53b38bc9-2271-4c26-a682-dbcff53e4f37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EX42/post_tuoitre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EX42/category_tuoitre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX42/category_tuoitre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX42/post_tuoitre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX42/post_tuoitre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
