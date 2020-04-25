@@ -1,4 +1,4 @@
-package EX4;
+package EX41;
 
 import java.util.Arrays;
 import java.util.Scanner;

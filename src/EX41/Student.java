@@ -1,10 +1,10 @@
-package EX4;
+package EX41;
 
 public class Student {
-    String ten;
-    int tuoi;
-    float diem;
-    String gioiTinh;
+    private String ten;
+    private int tuoi;
+    private float diem;
+    private String gioiTinh;
 
     public Student(String ten, int tuoi, float diem) {
         this.ten = ten;
