@@ -1,34 +1,34 @@
 package EX51;
 
 public class news_tuoitre {
-    private int postId;
-    private String postName;
+    private int newsId;
+    private String newsName;
     private int authorId;
     private String authorName;
     private String tag;
 
-    public news_tuoitre(int postId, String postName, int authorId, String authorName, String tag) {
-        this.postId = postId;
-        this.postName = postName;
+    public news_tuoitre(int newsId, String newsName, int authorId, String authorName, String tag) {
+        this.newsId = newsId;
+        this.newsName = newsName;
         this.authorId = authorId;
         this.authorName = authorName;
         this.tag = tag;
     }
 
-    public int getPostId() {
-        return postId;
+    public int getNewsId() {
+        return newsId;
     }
 
-    public void setPostId(int postId) {
-        this.postId = postId;
+    public void setNewsId(int newsId) {
+        this.newsId = newsId;
     }
 
-    public String getPostName() {
-        return postName;
+    public String getNewsName() {
+        return newsName;
     }
 
-    public void setPostName(String postName) {
-        this.postName = postName;
+    public void setNewsName(String newsName) {
+        this.newsName = newsName;
     }
 
     public int getAuthorId() {

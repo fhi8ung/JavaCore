@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53b38bc9-2271-4c26-a682-dbcff53e4f37" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/EX42/category_service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX42/category_service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX51/news_tuoitre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX51/news_tuoitre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +50,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/EX51" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\Java\JavaCore\src\EX51" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.OOP">
     <configuration name="Activity35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -213,10 +219,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1587480241683" />
-    <state x="1240" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1587818098163">
+    <state x="1240" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1587822032089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1240" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587818098163" />
+    <state x="1240" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587822032089" />
     <state x="743" y="414" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587820919944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
