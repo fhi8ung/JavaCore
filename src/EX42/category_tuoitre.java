@@ -1,6 +1,6 @@
 package EX42;
 
-public class phanloai_tuoitre {
+public class category_tuoitre {
     private int category_id;
     private String phanloai;
 
